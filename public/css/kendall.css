@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, a {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+a {
+  padding-bottom: 20px;
+}
